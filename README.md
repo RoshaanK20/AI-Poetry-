@@ -41,8 +41,8 @@ A Python-based AI poetry generator that creates Urdu and English poems using the
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/Roshaank20/AI-Poetry.git
+   cd AI-Poetry
    ```
 
 2. Create and activate a virtual environment:
